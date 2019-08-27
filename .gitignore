@@ -1,0 +1,12 @@
+.vs/
+/Bin
+/x64
+*/x64
+*.opensdf
+*.sdf
+*.user
+*.suo
+*.VC.opendb
+*.orig
+*.VC.db
+
