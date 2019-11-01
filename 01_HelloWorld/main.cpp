@@ -92,7 +92,7 @@ void PrintNode(FbxNode* pNode) {
 int main(int argc, char** argv) {
 
 	// Change the following filename to a suitable filename value.
-	const char* lFilename = "T:\\Playpan\\FBX_Loader\\01_HelloWorld\\PepeMocap.fbx";
+	const char* lFilename = "T:\\Playpan\\FBX_DX12_Loader\\01_HelloWorld\\PepeMocap.fbx";
 
 	// Initialize the SDK manager. This object handles all our memory management.
 	FbxManager* lSdkManager = FbxManager::Create();
